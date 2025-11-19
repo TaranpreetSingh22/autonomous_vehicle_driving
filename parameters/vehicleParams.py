@@ -1,0 +1,1 @@
+vehicle_width = 2 # meters

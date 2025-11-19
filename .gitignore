@@ -1,0 +1,10 @@
+__pycache__
+*.pyc
+.env
+.vscode/
+bev_frames
+frames
+video
+*.zip
+*.mp4
+main.ipynb
